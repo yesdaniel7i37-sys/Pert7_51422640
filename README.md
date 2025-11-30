@@ -1,0 +1,1 @@
+Pada pertemuan 3 membahas mengenai konsep NVC, pertemuan 4 mengenai Konsep Dasar Object Relasional Mapping dan Framwork, pertemuan 5 Membuat Data Mahasiswa Menggunakan Java dan Spring Pertemuan 6 membahas konsep AOP
